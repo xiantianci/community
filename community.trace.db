@@ -1,0 +1,33 @@
+2019-08-16 23:20:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USER" not found; SQL statement:
+insert into user (account_id,name,token,gmt_create,gmt_modified) values (?,?,?,?,?) [42102-196]
+2019-08-16 23:21:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USER" not found; SQL statement:
+insert into user (account_id,name,token,gmt_create,gmt_modified) values (?,?,?,?,?) [42102-196]
+2019-08-16 23:28:40 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USER" not found; SQL statement:
+insert into user (account_id,name,token,gmt_create,gmt_modified) values (?,?,?,?,?) [42102-196]
+2019-08-16 23:29:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERTABLE" not found; SQL statement:
+insert into usertable (account_id,name,token,gmt_create,gmt_modified) values (?,?,?,?,?) [42102-196]
+2019-08-16 23:38:36 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERTABLE" not found; SQL statement:
+insert into usertable (account_id,name,token,gmt_create,gmt_modified) values (?,?,?,?,?) [42102-196]
+2019-08-16 23:41:04 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USER" not found; SQL statement:
+insert into user (account_id,name,token,gmt_create,gmt_modified) values (?,?,?,?,?) [42102-196]
+2019-08-16 23:45:32 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USER" not found; SQL statement:
+insert into user (account_id,name,token,gmt_create,gmt_modified) values (?,?,?,?,?) [42102-196]
+2019-08-16 23:47:24 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USER" not found; SQL statement:
+insert into public.user (account_id,name,token,gmt_create,gmt_modified) values (?,?,?,?,?) [42102-196]
+2019-08-16 23:55:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USER" not found; SQL statement:
+insert into public.user (account_id,name,token,gmt_create,gmt_modified) values (?,?,?,?,?) [42102-196]
+2019-08-17 00:02:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USER" not found; SQL statement:
+insert into public.user (account_id,name,token,gmt_create,gmt_modified) values (?,?,?,?,?) [42102-196]
+2019-08-17 00:06:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USER" not found; SQL statement:
+insert into public.user (account_id,name,token,gmt_create,gmt_modified) values (?,?,?,?,?) [42102-196]
